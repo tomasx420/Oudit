@@ -6,10 +6,6 @@
 Effective audit management is crucial for organizations to ensure regulatory compliance, identify operational gaps, and mitigate risks. Our client Outokumpu Stainless (Terneuzen) is conducting audits throughout the whole organization at different levels. Currently, the management of the audits in the company is disjointed and fragmented – audits are done on paper, custom apps, forms, etc. There is no full overview of audits to be done, and planned, the actions resulting from them and how findings in different areas interconnect. Therefore, this affects compliance with internal and external norms.
 The Outokumpu audit management system (or OuDit for short) is a web application designed and created during the second semester of the first year of the ICT programme – courses Framework Project 1 & 2. OuDit came in existence because of our customer’s need to centralize the auditing process in the company. The high-level goal is to enhance the efficiency, accuracy, and transparency of the audit management process and the actions that are evoked during the process.
 
-## Hosted app URL:
-The app is hosted using Heroku
-https://strange-hills-oudit-41f011efcc83.herokuapp.com
-
 ## Local Set-up (XAMPP)
 1) Clone the repo
 2) Run `composer install`
