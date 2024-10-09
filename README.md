@@ -1,5 +1,6 @@
-# Framework Project 2
-## OuDit - Outokumpu Audit/Action Management System
+# OuDit - Outokumpu Audit/Action Management System
+
+### Course: Framework Project 2
 
 ## Project description:
 Effective audit management is crucial for organizations to ensure regulatory compliance, identify operational gaps, and mitigate risks. Our client Outokumpu Stainless (Terneuzen) is conducting audits throughout the whole organization at different levels. Currently, the management of the audits in the company is disjointed and fragmented – audits are done on paper, custom apps, forms, etc. There is no full overview of audits to be done, and planned, the actions resulting from them and how findings in different areas interconnect. Therefore, this affects compliance with internal and external norms.
